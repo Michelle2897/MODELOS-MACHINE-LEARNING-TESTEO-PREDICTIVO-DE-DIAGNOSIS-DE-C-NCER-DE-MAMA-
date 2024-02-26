@@ -36,3 +36,5 @@ La sensibilidad o recall, la clase 0, el recall es del 94%, lo que significa que
 El F1-score para la clase 0 es del 92%, mientras que para la clase 1 es del 95%. El support es el número de ocurrencias reales de cada clase en los datos de prueba. En este caso, hay 54 muestras de la clase 0 y 89 muestras de la clase 1. La precisión global del modelo es del 94%.
 
 
+Revisa el dataset en la carpeta PRUEBA FINAL: http://localhost:8888/lab/tree/PRUEBA%20FINAL
+Descarga el dataset en; http://localhost:8888/files/PRUEBA%20FINAL/ANACONDA/Testeo%20cancer.ipynb?_xsrf=2%7Cd8fbc5b8%7C60e3ff03e5c8d9bed449dc843dc2ccdc%7C1708828458
